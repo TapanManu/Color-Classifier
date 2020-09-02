@@ -23,7 +23,7 @@ def RGBCapture(event,x,y,flags,param):
         print("Coordinates of pixel: X: ",x,"Y: ",y)
         print("color is:",color(model.predict([[colorsR,colorsG,colorsB]])))
 
-#model has some ambiguity regarding orange,brown ... rest are good in working
+# model is well done
 
 model = pickle.load(open('colour_model.sav','rb'))
 cv2.namedWindow('mouseRGB')
