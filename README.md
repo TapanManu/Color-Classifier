@@ -1,4 +1,3 @@
-# Color-Classifier
-Real time color predictor 
+# <font color="#23253b">Color-Classifier</font>
+<font color="#191f42">Real time color predictor</font>
 
-created by <font color="violet">V</font><font color="Indigo">I</font><font color="blue">B</font><font color="green">G</font><font color="Yellow">Y</font><font color="orange">O</font><font color="red">R</font>
