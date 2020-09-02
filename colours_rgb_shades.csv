@@ -1,0 +1,647 @@
+Color Name,R,G,B,matching color
+Grey,84,84,84,grey
+"Grey, Silver",192,192,192,white
+grey,190,190,190,white
+LightGray,211,211,211,white
+LightSlateGrey,119,136,153,blue
+SlateGray,112,128,144,blue
+SlateGray1,198,226,255,white
+SlateGray2,185,211,238,white
+SlateGray3,159,182,205,blue
+SlateGray4,108,123,139,blue
+black,0,0,0,black
+grey0,0,0,0,black
+grey1,3,3,3,black
+grey2,5,5,5,black
+grey3,8,8,8,black
+grey4,10,10,10,black
+grey5,13,13,13,black
+grey6,15,15,15,black
+grey7,18,18,18,black
+grey8,20,20,20,black
+grey9,23,23,23,black
+grey10,26,26,26,black
+grey11,28,28,28,black
+grey12,31,31,31,black
+grey13,33,33,33,black
+grey14,36,36,36,black
+grey15,38,38,38,black
+grey16,41,41,41,black
+grey17,43,43,43,black
+grey18,46,46,46,black
+grey19,48,48,48,black
+grey20,51,51,51,black
+grey21,54,54,54,black
+grey22,56,56,56,black
+grey23,59,59,59,grey
+grey24,61,61,61,grey
+grey25,64,64,64,grey
+grey26,66,66,66,grey
+grey27,69,69,69,grey
+grey28,71,71,71,grey
+grey29,74,74,74,grey
+grey30,77,77,77,grey
+grey31,79,79,79,grey
+grey32,82,82,82,grey
+grey33,84,84,84,grey
+grey34,87,87,87,grey
+grey35,89,89,89,grey
+grey36,92,92,92,grey
+grey37,94,94,94,grey
+grey38,97,97,97,grey
+grey39,99,99,99,grey
+grey40,102,102,102,grey
+"grey41, DimGrey",105,105,105,grey
+grey42,107,107,107,grey
+grey43,110,110,110,grey
+grey44,112,112,112,grey
+grey45,115,115,115,grey
+grey46,117,117,117,grey
+grey47,120,120,120,grey
+grey48,122,122,122,grey
+grey49,125,125,125,grey
+grey50,127,127,127,grey
+grey51,130,130,130,grey
+grey52,133,133,133,grey
+grey53,135,135,135,grey
+grey54,138,138,138,grey
+grey55,140,140,140,grey
+grey56,143,143,143,grey
+grey57,145,145,145,grey
+grey58,148,148,148,grey
+grey59,150,150,150,grey
+grey60,153,153,153,grey
+grey61,156,156,156,grey
+grey62,158,158,158,grey
+grey63,161,161,161,white
+grey64,163,163,163,white
+grey65,166,166,166,white
+grey66,168,168,168,white
+grey67,171,171,171,white
+grey68,173,173,173,white
+grey69,176,176,176,white
+grey70,179,179,179,white
+grey71,181,181,181,white
+grey72,184,184,184,white
+grey73,186,186,186,white
+grey74,189,189,189,white
+grey75,191,191,191,white
+grey76,194,194,194,white
+grey77,196,196,196,white
+grey78,199,199,199,white
+grey79,201,201,201,white
+grey80,204,204,204,white
+grey81,207,207,207,white
+grey82,209,209,209,white
+grey83,212,212,212,white
+grey84,214,214,214,white
+grey85,217,217,217,white
+grey86,219,219,219,white
+grey87,222,222,222,white
+grey88,224,224,224,white
+grey89,227,227,227,white
+grey90,229,229,229,white
+grey91,232,232,232,white
+grey92,235,235,235,white
+grey93,237,237,237,white
+grey94,240,240,240,white
+grey95,242,242,242,white
+grey96,245,245,245,white
+grey97,247,247,247,white
+grey98,250,250,250,white
+grey99,252,252,252,white
+"grey100, White",255,255,255,white
+Dark Slate Grey,47,79,79,black
+Dim Grey,84,84,84,black
+Very Light Grey,205,205,205,white
+Free Speech Grey,99,86,136,blue
+AliceBlue,240,248,255,white
+BlueViolet,138,43,226,violet
+Cadet Blue,95,159,159,blue
+CadetBlue,95,158,160,blue
+CadetBlue,95,158,160,blue
+CadetBlue1,152,245,255,blue
+CadetBlue2,142,229,238,blue
+CadetBlue3,122,197,205,blue
+CadetBlue4,83,134,139,blue
+Corn Flower Blue,66,66,111,blue
+CornflowerBlue,100,149,237,blue
+DarkSlateBlue,72,61,139,blue
+DarkTurquoise,0,206,209,blue
+DeepSkyBlue,0,191,255,blue
+DeepSkyBlue1,0,191,255,blue
+DeepSkyBlue2,0,178,238,blue
+DeepSkyBlue3,0,154,205,blue
+DeepSkyBlue4,0,104,139,blue
+DodgerBlue,30,144,255,blue
+DodgerBlue1,30,144,255,blue
+DodgerBlue2,28,134,238,blue
+DodgerBlue3,24,116,205,blue
+DodgerBlue4,16,78,139,blue
+LightBlue,173,216,230,blue
+LightBlue1,191,239,255,blue
+LightBlue2,178,223,238,blue
+LightBlue3,154,192,205,blue
+LightBlue4,104,131,139,blue
+LightCyan,224,255,255,white
+LightCyan1,224,255,255,white
+LightCyan2,209,238,238,white
+LightCyan3,180,205,205,white
+LightCyan4,122,139,139,grey
+LightSkyBlue,135,206,250,blue
+LightSkyBlue1,176,226,255,blue
+LightSkyBlue2,164,211,238,blue
+LightSkyBlue3,141,182,205,blue
+LightSkyBlue4,96,123,139,blue
+LightSlateBlue,132,112,255,blue
+LightSteelBlue,176,196,222,blue
+LightSteelBlue1,202,225,255,blue
+LightSteelBlue2,188,210,238,blue
+LightSteelBlue3,162,181,205,blue
+LightSteelBlue4,110,123,139,blue
+Aquamarine,112,219,147,green
+MediumBlue,0,0,205,blue
+MediumSlateBlue,123,104,238,blue
+MediumTurquoise,72,209,204,blue
+MidnightBlue,25,25,112,blue
+NavyBlue,0,0,128,blue
+PaleTurquoise,175,238,238,green
+PaleTurquoise1,187,255,255,green
+PaleTurquoise2,174,238,238,green
+PaleTurquoise3,150,205,205,green
+PaleTurquoise4,102,139,139,green
+PowderBlue,176,224,230,white
+RoyalBlue,65,105,225,blue
+RoyalBlue1,72,118,255,blue
+RoyalBlue2,67,110,238,blue
+RoyalBlue3,58,95,205,blue
+RoyalBlue4,39,64,139,blue
+RoyalBlue5,0,34,102,blue
+SkyBlue,135,206,235,green
+SkyBlue1,135,206,255,green
+SkyBlue2,126,192,238,blue
+SkyBlue3,108,166,205,blue
+SkyBlue4,74,112,139,blue
+SlateBlue,106,90,205,violet
+SlateBlue1,131,111,255,blue
+SlateBlue2,122,103,238,blue
+SlateBlue3,105,89,205,blue
+SlateBlue4,71,60,139,blue
+SteelBlue,70,130,180,blue
+SteelBlue1,99,184,255,blue
+SteelBlue2,92,172,238,blue
+SteelBlue3,79,148,205,blue
+SteelBlue4,54,100,139,blue
+aquamarine,127,255,212,green
+aquamarine1,127,255,212,green
+aquamarine2,118,238,198,green
+"aquamarine3, MediumAquamarine",102,205,170,green
+aquamarine4,69,139,116,green
+azure,240,255,255,white
+azure1,240,255,255,white
+azure2,224,238,238,white
+azure3,193,205,205,white
+azure4,131,139,139,grey
+blue,0,0,255,blue
+blue1,0,0,255,blue
+blue2,0,0,238,blue
+blue3,0,0,205,blue
+blue4,0,0,139,blue
+aqua,0,255,255,green
+True Iris Blue,3,180,204,green
+cyan,0,255,255,green
+cyan1,0,255,255,green
+cyan2,0,238,238,green
+cyan3,0,205,205,green
+cyan4,0,139,139,blue
+navy,0,0,128,blue
+teal,0,128,128,blue
+turquoise,64,224,208,green
+turquoise1,0,245,255,green
+turquoise2,0,229,238,green
+turquoise3,0,197,205,green
+turquoise4,0,134,139,blue
+DarkSlateGray,47,79,79,grey
+DarkSlateGray1,151,255,255,green
+DarkSlateGray2,141,238,238,green
+DarkSlateGray3,121,205,205,green
+DarkSlateGray4,82,139,139,grey
+Dark Slate Blue,36,24,130,blue
+Dark Turquoise,112,147,219,blue
+Medium Slate Blue,127,0,255,blue
+Medium Turquoise,112,219,219,blue
+Midnight Blue,47,47,79,grey
+Navy Blue,35,35,142,blue
+Neon Blue,77,77,255,blue
+New Midnight Blue,0,0,156,blue
+Rich Blue,89,89,171,blue
+Sky Blue,50,153,204,blue
+Slate Blue,0,127,255,blue
+Summer Sky,56,176,222,blue
+Iris Blue,3,180,200,blue
+Free Speech Blue,65,86,197,blue
+RosyBrown,188,143,143,pink
+RosyBrown1,255,193,193,pink
+RosyBrown2,238,180,180,pink
+RosyBrown3,205,155,155,pink
+RosyBrown4,139,105,105,magenda
+SaddleBrown,139,69,19,magenda
+SandyBrown,244,164,96,orange
+beige,245,245,220,white
+brown,165,42,42,magenda
+brown,166,42,42,magenda
+brown1,255,64,64,red
+brown2,238,59,59,red
+brown3,205,51,51,red
+brown4,139,35,35,magenda
+dark brown,92,64,51,grey
+burlywood,222,184,135,orange
+burlywood1,255,211,155,orange
+burlywood2,238,197,145,orange
+burlywood3,205,170,125,orange
+burlywood4,139,115,85,magenda
+baker's chocolate,92,51,23,grey
+chocolate,210,105,30,orange
+chocolate1,255,127,36,orange
+chocolate2,238,118,33,orange
+chocolate3,205,102,29,orange
+chocolate4,139,69,19,magenda
+peru,205,133,63,orange
+tan,210,180,140,orange
+tan1,255,165,79,orange
+tan2,238,154,73,orange
+tan3,205,133,63,orange
+tan4,139,90,43,magenda
+Dark Tan,151,105,79,brown
+Dark Wood,133,94,66,brown
+Light Wood,133,99,99,magenta
+Medium Wood,166,128,100,pink
+New Tan,235,199,158,orange
+Semi-Sweet Chocolate,107,66,38,brown
+Sienna,142,107,35,lemon
+Tan,219,147,112,brown
+Very Dark Brown,92,64,51,grey
+Dark Green,47,79,47,grey
+DarkGreen,0,100,0,green
+dark green copper,74,118,110,grey
+DarkKhaki,189,183,107,yellow
+DarkOliveGreen,85,107,47,green
+DarkOliveGreen1,202,255,112,yellow
+DarkOliveGreen2,188,238,104,green
+DarkOliveGreen3,162,205,90,green
+DarkOliveGreen4,110,139,61,grey
+olive,128,128,0,lemon
+DarkSeaGreen,143,188,143,green
+DarkSeaGreen1,193,255,193,green
+DarkSeaGreen2,180,238,180,green
+DarkSeaGreen3,155,205,155,green
+DarkSeaGreen4,105,139,105,green
+ForestGreen,34,139,34,green
+GreenYellow,173,255,47,white
+LawnGreen,124,252,0,blue
+LightSeaGreen,32,178,170,green
+LimeGreen,50,205,50,green
+MediumSeaGreen,60,179,113,blue
+MediumSpringGreen,0,250,154,white
+MintCream,245,255,250,green
+OliveDrab,107,142,35,green
+OliveDrab1,192,255,62,yellow
+OliveDrab2,179,238,58,yellow
+OliveDrab3,154,205,50,yellow
+OliveDrab4,105,139,34,green
+PaleGreen,152,251,152,green
+PaleGreen1,154,255,154,green
+PaleGreen2,144,238,144,green
+PaleGreen3,124,205,124,green
+PaleGreen4,84,139,84,green
+"SeaGreen, SeaGreen4",46,139,87,green
+SeaGreen1,84,255,159,green
+SeaGreen2,78,238,148,green
+SeaGreen3,67,205,128,blue
+SpringGreen,0,255,127,green
+SpringGreen1,0,255,127,green
+SpringGreen2,0,238,118,green
+SpringGreen3,0,205,102,green
+SpringGreen4,0,139,69,green
+YellowGreen,154,205,50,yellow
+chartreuse,127,255,0,yellow
+chartreuse1,127,255,0,yellow
+chartreuse2,118,238,0,yellow
+chartreuse3,102,205,0,yellow
+chartreuse4,69,139,0,green
+green,0,255,0,green
+green,0,128,0,green
+lime,0,255,0,green
+green1,0,255,0,green
+green2,0,238,0,green
+green3,0,205,0,green
+green4,0,139,0,green
+khaki,240,230,140,white
+khaki1,255,246,143,yellow
+khaki2,238,230,133,yellow
+khaki3,205,198,115,yellow
+khaki4,139,134,78,grey
+Dark Olive Green,79,79,47,grey
+Green Yellow [sic],209,146,117,pink
+Hunter Green [sic],142,35,35,red
+"Forest Green, Khaki, Medium Aquamarine",35,142,35,green
+Medium Forest Green,219,219,112,yellow
+Medium Sea Green,66,111,66,green
+Medium Spring Green,127,255,0,yellow
+Pale Green,143,188,143,blue
+Sea Green,35,142,104,blue
+Spring Green,0,255,127,green
+Free Speech Green,9,249,17,green
+Free Speech Aquamarine,2,157,116,blue
+DarkOrange,255,140,0,orange
+DarkOrange1,255,127,0,orange
+DarkOrange2,238,118,0,orange
+DarkOrange3,205,102,0,orange
+DarkOrange4,139,69,0,brown
+DarkSalmon,233,150,122,pink
+LightCoral,240,128,128,pink
+LightSalmon,255,160,122,pink
+LightSalmon1,255,160,122,orange
+LightSalmon2,238,149,114,orange
+LightSalmon3,205,129,98,red
+LightSalmon4,139,87,66,grey
+PeachPuff,255,218,185,white
+PeachPuff1,255,218,185,white
+PeachPuff2,238,203,173,white
+PeachPuff3,205,175,149,magenta
+PeachPuff4,139,119,101,grey
+bisque,255,228,196,white
+bisque1,255,228,196,white
+bisque2,238,213,183,white
+bisque3,205,183,158,magenta
+bisque4,139,125,107,grey
+coral,255,127,0,orange
+coral,255,127,80,red
+coral1,255,114,86,red
+coral2,238,106,80,red
+coral3,205,91,69,red
+coral4,139,62,47,brown
+honeydew,240,255,240,white
+honeydew1,240,255,240,white
+honeydew2,224,238,224,white
+honeydew3,193,205,193,blue
+honeydew4,131,139,131,blue
+orange,255,165,0,orange
+orange1,255,165,0,orange
+orange2,238,154,0,orange
+orange3,205,133,0,orange
+orange4,139,90,0,brown
+salmon,250,128,114,pink
+salmon1,255,140,105,red
+salmon2,238,130,98,red
+salmon3,205,112,84,red
+salmon4,139,76,57,brown
+sienna,160,82,45,brown
+sienna1,255,130,71,orange
+sienna2,238,121,66,orange
+sienna3,205,104,57,brown
+sienna4,139,71,38,grey
+Mandarian Orange,142,35,35,brown
+Orange,255,127,0,orange
+Orange Red,255,36,0,orange
+DeepPink,255,20,147,pink
+DeepPink1,255,20,147,pink
+DeepPink2,238,18,137,pink
+DeepPink3,205,16,118,magenta
+DeepPink4,139,10,80,violet
+HotPink,255,105,180,pink
+HotPink1,255,110,180,pink
+HotPink2,238,106,167,pink
+HotPink3,205,96,144,magenta
+HotPink4,139,58,98,violet
+IndianRed,205,92,92,red
+IndianRed1,255,106,106,red
+IndianRed2,238,99,99,red
+IndianRed3,205,85,85,brown
+IndianRed4,139,58,58,grey
+LightPink,255,182,193,white
+LightPink1,255,174,185,pink
+LightPink2,238,162,173,pink
+LightPink3,205,140,149,pink
+LightPink4,139,95,101,grey
+MediumVioletRed,199,21,133,magenta
+MistyRose,255,228,225,white
+MistyRose1,255,228,225,white
+MistyRose2,238,213,210,white
+MistyRose3,205,183,181,grey
+MistyRose4,139,125,123,grey
+OrangeRed,255,69,0,orange
+OrangeRed1,255,69,0,orange
+OrangeRed2,238,64,0,orange
+OrangeRed3,205,55,0,orange
+OrangeRed4,139,37,0,brown
+PaleVioletRed,219,112,147,pink
+PaleVioletRed1,255,130,171,pink
+PaleVioletRed2,238,121,159,pink
+PaleVioletRed3,205,104,137,pink
+PaleVioletRed4,139,71,93,magenta
+VioletRed,208,32,144,pink
+VioletRed1,255,62,150,pink
+VioletRed2,238,58,140,pink
+VioletRed3,205,50,120,pink
+VioletRed4,139,34,82,magenta
+firebrick,178,34,34,red
+firebrick1,255,48,48,red
+firebrick2,238,44,44,red
+firebrick3,205,38,38,red
+firebrick4,139,26,26,brown
+pink,255,192,203,white
+pink1,255,181,197,pink
+pink2,238,169,184,pink
+pink3,205,145,158,pink
+pink4,139,99,108,grey
+Flesh,245,204,176,white
+Feldspar,209,146,117,brown
+red,255,0,0,orange
+red1,255,0,0,orange
+red2,238,0,0,orange
+red3,205,0,0,red
+red4,139,0,0,brown
+tomato,255,99,71,red
+tomato1,255,99,71,red
+tomato2,238,92,66,red
+tomato3,205,79,57,brown
+tomato4,139,54,38,grey
+Dusty Rose,133,99,99,grey
+Firebrick,142,35,35,brown
+Indian Red,245,204,176,white
+Pink,188,143,143,pink
+Salmon,111,66,66,grey
+Scarlet,140,23,23,red
+Spicy Pink,255,28,174,pink
+Free Speech Magenta,227,91,216,pink
+Free Speech Red,192,0,0,red
+DarkOrchid,153,50,204,blue
+DarkOrchid1,191,62,255,blue
+DarkOrchid2,178,58,238,blue
+DarkOrchid3,154,50,205,blue
+DarkOrchid4,104,34,139,blue
+DarkViolet,148,0,211,blue
+LavenderBlush,255,240,245,white
+LavenderBlush1,255,240,245,white
+LavenderBlush2,238,224,229,white
+LavenderBlush3,205,193,197,white
+LavenderBlush4,139,131,134,grey
+MediumOrchid,186,85,211,blue
+MediumOrchid1,224,102,255,pink
+MediumOrchid2,209,95,238,pink
+MediumOrchid3,180,82,205,blue
+MediumOrchid4,122,55,139,blue
+MediumPurple,147,112,219,blue
+Medium Orchid,147,112,219,blue
+MediumPurple1,171,130,255,blue
+Dark Orchid,153,50,205,blue
+MediumPurple2,159,121,238,blue
+MediumPurple3,137,104,205,blue
+MediumPurple4,93,71,139,blue
+lavender,230,230,250,white
+magenta,255,0,255,pink
+fuchsia,255,0,255,pink
+magenta1,255,0,255,pink
+magenta2,238,0,238,pink
+magenta3,205,0,205,pink
+magenta4,139,0,139,magenta
+maroon,176,48,96,red
+maroon1,255,52,179,pink
+maroon2,238,48,167,pink
+maroon3,205,41,144,pink
+maroon4,139,28,98,grey
+orchid,218,112,214,pink
+Orchid,219,112,219,pink
+orchid1,255,131,250,pink
+orchid2,238,122,233,pink
+orchid3,205,105,201,pink
+orchid4,139,71,137,blue
+plum,221,160,221,pink
+plum1,255,187,255,white
+plum2,238,174,238,white
+plum3,205,150,205,pink
+plum4,139,102,139,blue
+purple,160,32,240,blue
+purple,128,0,128,purple
+purple1,155,48,255,blue
+purple2,145,44,238,blue
+purple3,125,38,205,blue
+purple4,85,26,139,blue
+thistle,216,191,216,white
+thistle1,255,225,255,white
+thistle2,238,210,238,white
+thistle3,205,181,205,white
+thistle4,139,123,139,grey
+violet,238,130,238,pink
+violet blue,159,95,159,magenta
+Dark Purple,135,31,120,magenta
+Maroon,128,0,0,red
+Medium Violet Red,219,112,147,pink
+Neon Pink,255,110,199,pink
+Plum,234,173,234,white
+Thistle,216,191,216,white
+Turquoise,173,234,234,green
+Violet,79,47,79,grey
+Violet Red,204,50,153,pink
+AntiqueWhite,250,235,215,white
+AntiqueWhite1,255,239,219,white
+AntiqueWhite2,238,223,204,white
+AntiqueWhite3,205,192,176,white
+AntiqueWhite4,139,131,120,grey
+FloralWhite,255,250,240,white
+GhostWhite,248,248,255,white
+NavajoWhite,255,222,173,brown
+NavajoWhite1,255,222,173,white
+NavajoWhite2,238,207,161,white
+NavajoWhite3,205,179,139,brown
+NavajoWhite4,139,121,94,grey
+OldLace,253,245,230,white
+WhiteSmoke,245,245,245,white
+gainsboro,220,220,220,white
+ivory,255,255,240,white
+ivory1,255,255,240,white
+ivory2,238,238,224,white
+ivory3,205,205,193,white
+ivory4,139,139,131,grey
+linen,250,240,230,white
+seashell,255,245,238,white
+seashell1,255,245,238,white
+seashell2,238,229,222,white
+seashell3,205,197,191,white
+seashell4,139,134,130,grey
+snow,255,250,250,white
+snow1,255,250,250,white
+snow2,238,233,233,white
+snow3,205,201,201,pink
+snow4,139,137,137,grey
+wheat,245,222,179,brown
+wheat1,255,231,186,brown
+wheat2,238,216,174,white
+wheat3,205,186,150,brown
+wheat4,139,126,102,grey
+white,255,255,255,white
+Quartz,217,217,243,blue
+Wheat,216,216,191,white
+BlanchedAlmond,255,235,205,white
+DarkGoldenrod,184,134,11,orange
+DarkGoldenrod1,255,185,15,orange
+DarkGoldenrod2,238,173,14,orange
+DarkGoldenrod3,205,149,12,orange
+DarkGoldenrod4,139,101,8,orange
+LemonChiffon,255,250,205,white
+LemonChiffon1,255,250,205,white
+LemonChiffon2,238,233,191,white
+LemonChiffon3,205,201,165,white
+LemonChiffon4,139,137,112,grey
+LightGoldenrod,238,221,130,yellow
+LightGoldenrod1,255,236,139,yellow
+LightGoldenrod2,238,220,130,yellow
+LightGoldenrod3,205,190,112,yellow
+LightGoldenrod4,139,129,76,grey
+LightGoldenrodYellow,250,250,210,white
+LightYellow,255,255,224,white
+LightYellow1,255,255,224,white
+LightYellow2,238,238,209,white
+LightYellow3,205,205,180,white
+LightYellow4,139,139,122,grey
+PaleGoldenrod,238,232,170,yellow
+PapayaWhip,255,239,213,white
+cornsilk,255,248,220,white
+cornsilk1,255,248,220,white
+cornsilk2,238,232,205,white
+cornsilk3,205,200,177,grey
+cornsilk4,139,136,120,grey
+goldenrod,218,165,32,orange
+goldenrod1,255,193,37,orange
+goldenrod2,238,180,34,orange
+goldenrod3,205,155,29,orange
+goldenrod4,139,105,20,brown
+moccasin,255,228,181,white
+yellow,255,255,0,yellow
+yellow1,255,255,0,yellow
+yellow2,238,238,0,yellow
+yellow3,205,205,0,yellow
+yellow4,139,139,0,yellow
+gold,255,215,0,yellow
+gold1,255,215,0,yellow
+gold2,238,201,0,yellow
+gold3,205,173,0,yellow
+gold4,139,117,0,yellow
+Goldenrod,219,219,112,yellow
+Medium Goldenrod,234,234,174,white
+Yellow Green,153,204,50,green
+copper,184,115,51,brown
+cool copper,217,135,25,orange
+Green Copper,133,99,99,grey
+brass,181,166,66,yellow
+bronze,140,120,83,grey
+bronze II,166,125,61,brown
+bright gold,217,217,25,yellow
+Old Gold,207,181,59,yellow
+CSS Gold,204,153,0,orange
+gold,205,127,50,orange
+silver,230,232,250,white
+"Silver, Grey",192,192,192,blue
+Light Steel Blue,84,84,84,grey
+Steel Blue,35,107,142,blue
