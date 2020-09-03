@@ -7,3 +7,6 @@
 
 > 3.run color-train.py for training new data
 
+Generalized accuracy : 80%
+Trained accuracy :98%
+
